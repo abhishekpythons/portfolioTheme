@@ -1,0 +1,10 @@
+baseurl:"/"
+permalink: pretty
+title: "Sspace portfolio"
+
+defaults:
+  -scope:
+    path: ""
+    type: posts
+  values:
+    layout: post
